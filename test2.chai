@@ -1,0 +1,3 @@
+def some_f(int x) {
+    return x + 1.0;
+}
